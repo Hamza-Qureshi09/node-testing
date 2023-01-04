@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is for flutter testing",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamza-Qureshi09/Flutter-Project.git"
+  },
+  "author": "Hamza Qureshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamza-Qureshi09/Flutter-Project/issues"
+  },
+  "homepage": "https://github.com/Hamza-Qureshi09/Flutter-Project#readme"
+}
